@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React_Shivam_Mern/static/css/main.fef73b37.css",
+    "main.js": "/React_Shivam_Mern/static/js/main.9cbf6da9.js",
+    "static/js/787.a03867db.chunk.js": "/React_Shivam_Mern/static/js/787.a03867db.chunk.js",
+    "static/media/logo.svg": "/React_Shivam_Mern/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/React_Shivam_Mern/index.html",
+    "main.fef73b37.css.map": "/React_Shivam_Mern/static/css/main.fef73b37.css.map",
+    "main.9cbf6da9.js.map": "/React_Shivam_Mern/static/js/main.9cbf6da9.js.map",
+    "787.a03867db.chunk.js.map": "/React_Shivam_Mern/static/js/787.a03867db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fef73b37.css",
+    "static/js/main.9cbf6da9.js"
+  ]
+}
